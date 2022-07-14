@@ -1,0 +1,28 @@
+{
+  "name": "dsa-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashikuzzaman-abir/dsa-javascript.git"
+  },
+  "keywords": [
+    "dataStructure",
+    "algorythm",
+    "javascript"
+  ],
+  "author": "ashikuzzaman Abir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashikuzzaman-abir/dsa-javascript/issues"
+  },
+  "homepage": "https://github.com/ashikuzzaman-abir/dsa-javascript#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "prompt-sync": "^4.2.0"
+  }
+}
